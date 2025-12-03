@@ -319,5 +319,6 @@ For issues, questions, or suggestions:
 ## 🚀 Reference
 - Python to exe to setup wizard [Link](https://www.youtube.com/watch?v=p3tSLatmGvU&t=809s)
 - How to include an image in the exe file [Link](https://stackoverflow.com/questions/31836104/pyinstaller-and-onefile-how-to-include-an-image-in-the-exe-file)
+- Publish your First App in the Microsoft Store [Link](https://www.youtube.com/playlist?list=PLOXZOEPpQr-p1E5Sg7rjR8rh8Us5VvjOV)
 
 ---
