@@ -14,6 +14,10 @@ A sophisticated desktop task management application built with PyQt6 and SQLite,
 
 ![](https://github.com/Anas436/TaskManager/blob/main/image/Search.png)
 
+<hr>
+
+![](https://github.com/Anas436/TaskManager/blob/main/image/Task%20Manager%20-%20Made.mp4)
+
 ## 📁 Project Structure
 
 ```
